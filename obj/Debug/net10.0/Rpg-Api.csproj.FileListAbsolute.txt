@@ -31,3 +31,4 @@ D:\ARQ.LESSONS GL\Rpg-Api\obj\Debug\net10.0\refint\Rpg-Api.dll
 D:\ARQ.LESSONS GL\Rpg-Api\obj\Debug\net10.0\Rpg-Api.pdb
 D:\ARQ.LESSONS GL\Rpg-Api\obj\Debug\net10.0\Rpg-Api.genruntimeconfig.cache
 D:\ARQ.LESSONS GL\Rpg-Api\obj\Debug\net10.0\ref\Rpg-Api.dll
+D:\ARQ.LESSONS GL\Rpg-Api\obj\Debug\net10.0\Rpg-Api.sourcelink.json
